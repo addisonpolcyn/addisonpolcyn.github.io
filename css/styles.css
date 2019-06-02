@@ -23,7 +23,7 @@
 	right:0;
 	bottom:0;
 	left:0;
-	background:rgba(30,120,180,0.92);
+	background:rgba(15,100,160,0.92);
 	z-index:1}
 #lead-down{position:absolute;left:0;right:0;width:100%;text-align:center;z-index:10;bottom:15px;color:#fff}
 #lead-down span{cursor:pointer;display:block;margin:0 auto;width:35px;height:35px;border-radius:50%;border:3px solid #a0cfee;text-align:center}
